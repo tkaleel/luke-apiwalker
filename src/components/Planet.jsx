@@ -31,7 +31,6 @@ const Planet = (props) => {
         <p>Terrain: {planet.terrain}</p>
         <p>Surface Water: {handleWater()}</p>
         <p>Population: {planet.population}</p>
-
         </div>
     );
 };
